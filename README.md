@@ -1,7 +1,7 @@
 # codefundopp_Decoders
 
 
-We will be working on developing an Mobile Application Platform called "RELIEF". 
+We will be working on developing a Mobile Application Platform called "RELIEF". 
 RELIEF will be a multitask crossplatform application that can prove very helpful before, during and after disasters.
 
 #Features:
